@@ -15,7 +15,10 @@
 
 >info:
 
-logs/  
-objects/  
-packed-refs  
-refs/
+>logs: contém os logs de referências (refs), como logs de ramificações (branch logs) e logs de HEAD. Os logs de referências registram quando as referências do repositório, como ramificações e tags, foram atualizadas.
+
+>objects: parte essencial que armazena todos os objetos do banco de dados do git.
+
+>packed-refs: é um arquivo no diretório .git de um repositório git que armazena referências compactadas para tags e branches (ramificações).
+
+>refs: a pasta "refs" (referências) é um diretório importante que armazena ponteiros para commits, tags, branches (ramificações) e outras referências utilizadas pelo git.
