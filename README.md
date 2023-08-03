@@ -19,6 +19,10 @@
 
 >objects: parte essencial que armazena todos os objetos do banco de dados do git.
 
->packed-refs: é um arquivo no diretório .git de um repositório git que armazena referências compactadas para tags e branches (ramificações).
+>packed-refs: é um arquivo no diretório .git  que armazena referências compactadas para tags e branches.
 
->refs: a pasta "refs" (referências) é um diretório importante que armazena ponteiros para commits, tags, branches (ramificações) e outras referências utilizadas pelo git.
+>refs: a pasta refs  é um diretório importante que armazena ponteiros para commits, tags, branches etc.
+
+>git log: ele mostra os commits que você fez do último para o primeiro.
+
+>git show: mostra o último commit modificado.
