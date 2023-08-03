@@ -3,9 +3,9 @@
 
 ## descrição do diretório .git
 
-> config: é o arquivo de configuração específico do repositório que contém as configurações locais do git pra ele;
+> config: é o arquivo de configuração específico do repositório que contém as configurações locais do git pra ele.
 
-> description: uma descrição textual oara o repositório;
+> description: uma descrição textual oara o repositório.
 
 > HEAD:  representa o commit atual que o repositório está apontando, referência do último commit na ramificação (branch) atual do repositório.
 
@@ -26,3 +26,7 @@
 >git log: ele mostra os commits que você fez do último para o primeiro.
 
 >git show: mostra o último commit modificado.
+
+>touch: cria um comando vazio.
+
+>add: adiciona o stage.
