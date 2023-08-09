@@ -4,7 +4,7 @@
 ## descrição do diretório .git
 
 ### meu repositório remoto
-
+### teste rebase remoto
 > config: é o arquivo de configuração específico do repositório que contém as configurações locais do git pra ele.
 
 > description: uma descrição textual oara o repositório.
