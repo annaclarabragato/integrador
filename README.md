@@ -3,6 +3,8 @@
 
 ## descrição do diretório .git
 
+### meu repositório remoto
+
 > config: é o arquivo de configuração específico do repositório que contém as configurações locais do git pra ele.
 
 > description: uma descrição textual oara o repositório.
@@ -30,5 +32,3 @@
 >touch: cria um comando vazio.
 
 >add: adiciona o stage.
-
->questão 10: --, não é recomendado para quem for ver seu repositório poder ver o que foi ignorado.
