@@ -30,3 +30,5 @@
 >touch: cria um comando vazio.
 
 >add: adiciona o stage.
+
+>questão 10: --, não é recomendado para quem for ver seu repositório poder ver o que foi ignorado.
